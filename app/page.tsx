@@ -1,5 +1,4 @@
 import Image from "next/image";
-import YouTubeEmbed from "./components/YoutubeEmbed";
 
 export default function Home() {
   return (

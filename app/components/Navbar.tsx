@@ -6,14 +6,11 @@ export default function Navbar() {
       <nav className="bg-white bg-opacity-90 shadow-md sticky top-0 z-10">
         <div className="container mx-auto flex justify-between items-center p-4">
           <h1 className="text-2xl font-bold text-slate-800">
-            NextWeb Solutions
+            <Link href="/" className="hover:text-slate-800">
+              NextWeb Solutions
+            </Link>
           </h1>
           <ul className="flex space-x-4 text-slate-600">
-            <li>
-              <Link href="/" className="hover:text-slate-800">
-                Koti
-              </Link>
-            </li>
             <li>
               <Link href="/yhteystiedot" className="hover:text-slate-800">
                 Yhteystiedot

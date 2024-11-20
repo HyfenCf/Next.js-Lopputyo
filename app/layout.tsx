@@ -30,6 +30,7 @@ export default function RootLayout({
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
         <Navbar />
+        <script src="https://app.embed.im/snow.js" defer></script>
         {children}
       </body>
     </html>

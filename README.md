@@ -1,11 +1,11 @@
 # NextWeb Solutions - Kurssin lopputyö
 
-Tämä projekti on kurssini lopputyö, jossa toteutan modernin nettisivun käyttäen **Next.js**-frameworkia ja **Tailwind CSS** -kirjastoa.
+Tämä projekti on kurssini lopputyö, jossa toteutan modernin nettisivun käyttäen **Next.js**-frameworkia ja **Tailwind CSS** -frameworkkia.
 
 ## Projektin kuvaus
 
 NextWeb Solutions -projekti esittelee seuraavia asioita:
-- Next.js:n käyttö dynaamisten nettisivujen rakentamisessa.
+- Next.js:n käyttö nettisivujen rakentamisessa.
 - Tailwind CSS:n hyödyntäminen responsiivisen ja modernin ulkoasun luomisessa.
 - Komponenttipohjainen lähestymistapa koodin uudelleenkäytettävyyteen.
 

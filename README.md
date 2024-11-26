@@ -15,8 +15,8 @@ Seuraa näitä ohjeita käynnistääksesi projektin paikallisesti:
 
 1. Ohjeet: 
    ```bash
-   git clone https://github.com/HyfenCf/lopputyo.git
-   cd lopputyo
+   git clone https://github.com/HyfenCf/Next.js-Lopputyo
+   cd Next.js-lopputyo
    npm install
    npm run dev
    http://localhost:3000

@@ -1,6 +1,6 @@
 # NextWeb Solutions - Kurssin lopputyö
 
-Tämä projekti on kurssini lopputyö, jossa toteutan modernin nettisivun käyttäen **Next.js**-frameworkia ja **Tailwind CSS** -frameworkkia.
+Tämä projekti on kurssini lopputyö, jossa toteutan modernin nettisivun käyttäen **Next.js**-frameworkia, **Typescriptiä** ja **Tailwind CSS** -frameworkkia.
 
 ## Projektin kuvaus
 
@@ -21,8 +21,5 @@ Seuraa näitä ohjeita käynnistääksesi projektin paikallisesti:
    npm run dev
    http://localhost:3000
    
-Lisenssi
-Tämä projekti on tarkoitettu oppimiskäyttöön.
-
 
 
